@@ -1,6 +1,5 @@
 <template>
   <div class="status">
-    <font-awesome-icon icon="circle"></font-awesome-icon>
     &nbsp;<span>actuellement en poste</span>
   </div>
 </template>

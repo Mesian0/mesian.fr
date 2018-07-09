@@ -56,19 +56,19 @@
       <article>
         <ul>
           <li class="outer">
-            <div>2015 - 2016 Preston's College (Preston - UK) <font-awesome-icon class="icon language" icon="language"></font-awesome-icon></div>
+            <div>2015 - 2016 Preston's College (Preston - UK)</div>
             <strong>Cambridge English Level 2 Certificate in ESOL Skills for Life</strong>
           </li>
           <li class="outer">
-            <div>2013 - 2015 Université Paul Valéry (Montpellier) <font-awesome-icon class="icon language" icon="language"></font-awesome-icon></div>
+            <div>2013 - 2015 Université Paul Valéry (Montpellier)</div>
             <strong>Licence 2 Langues, Littératures et Civilisations Etrangères (Anglais)</strong>
           </li>
           <li class="outer">
-            <div>2012 - 2013 IUT de Montpellier-Sète (Montpellier) <font-awesome-icon class="icon code" icon="code"></font-awesome-icon></div>
+            <div>2012 - 2013 IUT de Montpellier-Sète (Montpellier)</div>
             <strong>Licence Progiciels de Gestion intégrés - ERP</strong>
           </li>
           <li class="outer">
-            <div>2009 - 2011 Lycée de la CCI (Nîmes) <font-awesome-icon class="icon code" icon="code"></font-awesome-icon></div>
+            <div>2009 - 2011 Lycée de la CCI (Nîmes)</div>
             <strong>BTS Informatique de Gestion</strong>
           </li>
         </ul>
