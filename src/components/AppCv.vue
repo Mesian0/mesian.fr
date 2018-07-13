@@ -169,23 +169,19 @@ header {
 
 section {
   padding-left: 50px;
+  background: #f8f8f8;
+  border-radius: 6px;
+  padding: 10px 20px;
+  margin: 20px 0;
   h2 {
     position: relative;
     display: flex;
-    color: #aaaaaa;
+    justify-content: flex-start;
+    color: #ccc;
     line-height: 1.8em;
+    font-size: 1.8rem;
     margin-top: 25px;
     margin-bottom: 0;
-    &::before {
-      content: '';
-      position: absolute;
-      left: -10px;
-      width: 4px;
-      border-radius: 3px;
-      height: 100%;
-      background: #aaaaaa;
-      margin-right: 10px;
-    }
   }
 
   article {
